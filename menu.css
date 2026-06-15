@@ -1,0 +1,73 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: Arial, sans-serif;
+}
+
+body{
+    min-height:100vh;
+
+    background-image:
+    linear-gradient(rgba(0,0,0,0.5),
+    rgba(0,0,0,0.5)),
+    url("menu.jpg");
+
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.menu-container{
+    text-align:center;
+}
+
+.menu-container h1{
+    color:white;
+    font-size:50px;
+    margin-bottom:25px;
+    letter-spacing:2px;
+}
+
+table{
+    width:700px;
+    border-collapse:collapse;
+
+    background:rgba(128,0,32,0.9); /* Maroon */
+
+    color:white;
+
+    border-radius:15px;
+    overflow:hidden;
+
+    box-shadow:0 0 20px rgba(0,0,0,0.5);
+}
+
+th{
+    background:#5c0017;
+    padding:18px;
+    font-size:24px;
+}
+
+td{
+    padding:16px;
+    font-size:20px;
+    border-bottom:1px solid rgba(255,255,255,0.2);
+}
+
+tr:hover{
+    background:rgba(255,255,255,0.1);
+}
+footer{
+    width:100%;
+    text-align:center;
+    color:white;
+    padding:20px;
+    margin-top:50px;
+   
+    font-size:16px;
+}

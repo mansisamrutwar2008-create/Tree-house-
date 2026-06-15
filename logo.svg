@@ -1,0 +1,30 @@
+<svg width="320" height="90" viewBox="0 0 320 90" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Icon Circle -->
+  <circle cx="45" cy="45" r="30" fill="#2e7d32"></circle>
+
+  <!-- Coffee cup -->
+  <rect x="35" y="38" width="20" height="18" rx="3" fill="#d7a86e"></rect>
+  
+  <!-- Cup handle -->
+  <path d="M55 42 C65 42,65 52,55 52" stroke="#d7a86e" stroke-width="3" fill="none"></path>
+
+  <!-- Steam forming "M" -->
+  <path d="M35 32 Q40 22 45 32 Q50 42 55 32" stroke="#ffffff" stroke-width="2" fill="none"></path>
+
+  <!-- Tree leaves above cup -->
+  <circle cx="45" cy="25" r="8" fill="#66bb6a"></circle>
+  <circle cx="35" cy="30" r="6" fill="#43a047"></circle>
+  <circle cx="55" cy="30" r="6" fill="#43a047"></circle>
+
+  <!-- Brand Name -->
+  <text x="90" y="45" font-size="22" font-family="Arial" font-weight="bold" fill="#3e2f1c">
+    Tree House Cafe
+  </text>
+
+  <!-- Tagline -->
+  <text x="90" y="68" font-size="14" font-family="Arial" fill="#2e7d32">
+    Fresh Coffee • Cozy Vibes
+  </text>
+
+</svg>
