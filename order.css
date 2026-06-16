@@ -85,12 +85,13 @@ button{
 button:hover{
     background:#5f0018;
 }
+
 footer{
     width:100%;
     text-align:center;
     color:white;
     padding:20px;
     margin-top:50px;
-    background:rgba(0,0,0,0.5);
+   
     font-size:16px;
 }
